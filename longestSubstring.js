@@ -1,6 +1,5 @@
 function longestSubstring(str,k){
-    const result = 0;
-    let 
+    const result = 0; 
     return result;
 }
 const results = longestSubstring("araaci",2);
